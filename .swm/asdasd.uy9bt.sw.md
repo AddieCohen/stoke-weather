@@ -3,9 +3,24 @@ id: uy9bt
 name: asdasd
 file_version: 1.0.2
 app_version: 0.6.9-0
+file_blobs:
+  src/app/hooks.ts: d658a5efd1291babfca6c8eb1bc271c839aca088
 ---
 
 asdasd
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/app/hooks.ts
+```typescript
+⬜ 1      import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
+⬜ 2      import type { RootState, AppDispatch } from './store';
+🟩 3      
+🟩 4      export const useAppDispatch = () => useDispatch<AppDispatch>();
+🟩 5      export const useAppSelector: TypedUseSelectorHook<RootState> = useSelector;
+⬜ 6      
+```
 
 <br/>
 
