@@ -6,11 +6,11 @@ import {WeatherDisplay} from '../weather-display/weather-display';
 export function ComponentSwitch() {
     const cityName: string = useAppSelector(selectCityName);
     const message: string = useAppSelector(selectMessage);
-    const capitalizedName: string = cityName.replace(/\b(\w)/g, s => s.toUpperCase())
+    const changedName: string = cityName.replace(/\b(\w)/g, s => s.toUpperCase())
 
     return (
         <div>
-            <h1 className="city-name">{capitalizedName}</h1>
+            <h1 className="city-name">{changedName}</h1>
             {!!message ? <Message data={message}/> : <WeatherDisplay/>}
         </div>
     );
