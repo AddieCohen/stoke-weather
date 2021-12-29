@@ -42,7 +42,7 @@ code() {
 
 <br/>
 
-<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBc3Rva2Utd2VhdGhlciUzQSUzQUFkZGllQ29oZW4%3D%2F443c0bab-fc68-4a00-8df8-2f8b9d98c3c0.png?alt=media&token=c1990e9c-dd0a-4b36-a7d0-d62772475290" style="width:'50%'"/></div>
+<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBc3Rva2Utd2VhdGhlciUzQSUzQUFkZGllQ29oZW4%3D%2F443c0bab-fc68-4a00-8df8-2f8b9d98c3c0.png?alt=media&token=c1990e9c-dd0a-4b36-a7d0-d62772475290" style="width:'25%'"/></div>
 
 <br/>
 
