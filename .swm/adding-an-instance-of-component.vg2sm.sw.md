@@ -15,13 +15,13 @@ Some examples of sssss are: fff
 
 # Basic Example
 
-We'll follow the implementation of {Example Component (an instance of Component)} for this example.
+We'll follow the implementation of {Example Component (an instance of Componengdfgdgt)} for this example.
 
 {add a high-level description of Example Component}.
 
 # TL;DR
 
-1.  Create a class inheriting from {base class} in [add a "/path" of a containing folder, and / or describe the file naming convention](#text-placeholder-id-7wbm4)
+1.  Create a class inheriting from {base class} in
     
 2.  Define {add class level variables / constants / types to define}
     
@@ -38,10 +38,6 @@ We first need to define our class in {mention relevant file}, and inherit from {
 
 <br/>
 
-
-
-<br/>
-
 ## Define {add class level variables / constants / types to define}
 
 Every ssss should define these at the class level:
@@ -54,17 +50,9 @@ Every ssss should define these at the class level:
 
 <br/>
 
-
-
-<br/>
-
 # Implement {method names to implement}
 
 The goal of {first method} is to {explain what this method does}.
-
-<br/>
-
-
 
 <br/>
 
@@ -74,17 +62,9 @@ Every time we add a new ssss, we reference it in a few locations:
 
 <br/>
 
-
-
-<br/>
-
 ## Usage example
 
 In this example we can see how our new ssss can be used:
-
-<br/>
-
-
 
 <br/>
 
