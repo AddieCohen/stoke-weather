@@ -19,9 +19,9 @@ We'll follow the implementation of {Example Component (an instance of Component)
 
 {add a high-level description of Example Component}.
 
-# TL;DR
+# TL;DRk
 
-1.  Create a class inheriting from {base class} in [add a "/path" of a containing folder, and / or describe the file naming convention](#text-placeholder-id-7wbm4)
+1.  Create a class inheriting from {base class} in {add a "/path" of a containing folder, and / or describe the file naming convention}
     
 2.  Define {add class level variables / constants / types to define}
     
