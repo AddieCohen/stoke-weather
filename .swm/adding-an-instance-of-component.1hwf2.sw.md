@@ -5,66 +5,66 @@ file_version: 1.0.2
 app_version: 0.7.1-2
 ---
 
-Understanding [Component](#text-placeholder-id-lfnuc)s and how they work is an important part of contributing to our system.
+Understanding {Component}s and how they work is an important part of contributing to our system.
 
-This document will describe all you need to know about [Component](#text-placeholder-id-lfnuc)s.
+This document will describe all you need to know about {Component}s.
 
-A [Component](#text-placeholder-id-lfnuc) is [add a high-level description of Components are and their role in the system](#text-placeholder-id-jhqz1).
+A {Component} is {add a high-level description of Components are and their role in the system}.
 
-Some examples of [Component](#text-placeholder-id-lfnuc)s are: [add examples here](#text-placeholder-id-ubhss)
+Some examples of {Component}s are: {add examples here}
 
 # Basic Example
 
-We'll follow the implementation of [Example Component (an instance of Component)](#text-placeholder-id-9oy67) for this example.
+We'll follow the implementation of {Example Component (an instance of Component)} for this example.
 
-[add a high-level description of Example Component](#text-placeholder-id-7e7ko).
+{add a high-level description of Example Component}.
 
-# TL;DRk
+# TL;DR
 
-1.  Create a class inheriting from [base class](#text-placeholder-id-gggqo) in [add a "/path" of a containing folder, and / or describe the file naming convention](#text-placeholder-id-7wbm4)
+1.  Create a class inheriting from {base class} in [add a "/path" of a containing folder, and / or describe the file naming convention](#text-placeholder-id-7wbm4)
     
-2.  Define [add class level variables / constants / types to define](#text-placeholder-id-exagy)
+2.  Define {add class level variables / constants / types to define}
     
-3.  Implement [add names of methods to implement](#text-placeholder-id-qpqfx)
+3.  Implement {add names of methods to implement}
     
-4.  Update [add a file that needs to be updated with the new class (add class / name of class to a list, import it somewhere, etc.](#text-placeholder-id-555pz)
+4.  Update {add a file that needs to be updated with the new class (add class / name of class to a list, import it somewhere, etc.}
     
 
 # Add the New Class
 
-### Inherit from [base class](#text-placeholder-id-gggqo)
+### Inherit from {base class}
 
-We first need to define our class in [mention relevant file](#text-placeholder-id-pjhku), and inherit from [base class](#text-placeholder-id-gggqo)
+We first need to define our class in {mention relevant file}, and inherit from {base class}
 
 <br/>
 
-## Define [add class level variables / constants / types to define](#text-placeholder-id-exagy)
+## Define {add class level variables / constants / types to define}
 
-Every [Component](#text-placeholder-id-lfnuc) should define these at the class level:
+Every {Component} should define these at the class level:
 
-*   [variable name](#text-placeholder-id-semhh): [why we need to define variable name/what it does](#text-placeholder-id-ndlwi)
+*   {variable name}: {why we need to define variable name/what it does}
 
-*   [another variable](#text-placeholder-id-7u6mn): [why we need to define another variable/what it does](#text-placeholder-id-aqpkp)
+*   {another variable}: {why we need to define another variable/what it does}
 
 *   ...
 
 <br/>
 
-# Implement [method names to implement](#text-placeholder-id-uke9s)
+# Implement {method names to implement}
 
-The goal of [first method](#text-placeholder-id-wmcbi) is to [explain what this method does](#text-placeholder-id-qmikw).
+The goal of {first method} is to {explain what this method does}.
 
 <br/>
 
 ## **Update additional files with the new class**
 
-Every time we add a new [Component](#text-placeholder-id-lfnuc), we reference it in a few locations:
+Every time we add a new {Component}, we reference it in a few locations:
 
 <br/>
 
 ## Usage example
 
-In this example we can see how our new [Component](#text-placeholder-id-lfnuc) can be used:
+In this example we can see how our new {Component} can be used:
 
 <br/>
 
