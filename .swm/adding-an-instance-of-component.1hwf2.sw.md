@@ -19,26 +19,22 @@ We'll follow the implementation of [Example Component (an instance of Component)
 
 [add a high-level description of Example Component](#text-placeholder-id-7e7ko).
 
-# TL;DR
+# TL;DRk
 
 1.  Create a class inheriting from [base class](#text-placeholder-id-gggqo) in [add a "/path" of a containing folder, and / or describe the file naming convention](#text-placeholder-id-7wbm4)
-
+    
 2.  Define [add class level variables / constants / types to define](#text-placeholder-id-exagy)
-
+    
 3.  Implement [add names of methods to implement](#text-placeholder-id-qpqfx)
-
+    
 4.  Update [add a file that needs to be updated with the new class (add class / name of class to a list, import it somewhere, etc.](#text-placeholder-id-555pz)
-
+    
 
 # Add the New Class
 
 ### Inherit from [base class](#text-placeholder-id-gggqo)
 
 We first need to define our class in [mention relevant file](#text-placeholder-id-pjhku), and inherit from [base class](#text-placeholder-id-gggqo)
-
-<br/>
-
-
 
 <br/>
 
@@ -54,17 +50,9 @@ Every [Component](#text-placeholder-id-lfnuc) should define these at the class l
 
 <br/>
 
-
-
-<br/>
-
 # Implement [method names to implement](#text-placeholder-id-uke9s)
 
 The goal of [first method](#text-placeholder-id-wmcbi) is to [explain what this method does](#text-placeholder-id-qmikw).
-
-<br/>
-
-
 
 <br/>
 
@@ -74,17 +62,9 @@ Every time we add a new [Component](#text-placeholder-id-lfnuc), we reference it
 
 <br/>
 
-
-
-<br/>
-
 ## Usage example
 
 In this example we can see how our new [Component](#text-placeholder-id-lfnuc) can be used:
-
-<br/>
-
-
 
 <br/>
 
