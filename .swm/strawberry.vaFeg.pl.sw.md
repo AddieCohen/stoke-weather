@@ -14,7 +14,6 @@ a playlist
 1. [cats](https://www.youtube.com/watch?v=9Cou1WoNe0Y)
 2. [Testing doc creation name name](testing-doc-creation-name-name.LTxBk.sw.md)
 3. [weather readme](https://raw.githubusercontent.com/AddieCohen/stoke-weather/main/README.md)
-4. [playlist for plan](playlist-for-plan.wEsHv.pl.sw.md)
 
 
 <br/>
