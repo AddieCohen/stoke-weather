@@ -12,6 +12,7 @@ testing links
 
 <!-- Steps - Do not remove this comment -->
 1. [a list](a-list.6g0rn.pl.sw.md)
+2. [strawberry](strawberry.vaFeg.pl.sw.md)
 
 
 <br/>
