@@ -8,6 +8,7 @@ app_version: 0.7.3-0
 <!-- Steps - Do not remove this comment -->
 1. [flowing doc](flowing-doc.PIv3p.sw.md)
 2. [Testing doc creation name name](testing-doc-creation-name-name.LTxBk.sw.md)
+3. [playlist for plan](playlist-for-plan.wEsHv.pl.sw.md)
 
 
 <br/>
