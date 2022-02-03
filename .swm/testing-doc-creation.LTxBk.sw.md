@@ -17,7 +17,7 @@ I'm testing the doc creation here
 | col 2 is      | centered      |   $12 |
 | zebra stripes |    $1 | are neat      |
 
-<br/> \ are neat      \
+<br/>
 
 this shows an error message
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
