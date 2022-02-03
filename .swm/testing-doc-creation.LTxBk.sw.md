@@ -11,7 +11,7 @@ I'm testing the doc creation here
 
 adding text here
 
-some more text s
+some more text
 
 <br/>
 
