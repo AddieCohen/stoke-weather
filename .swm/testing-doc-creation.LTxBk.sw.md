@@ -11,6 +11,8 @@ I'm testing the doc creation here
 
 adding text here
 
+some more text
+
 <br/>
 
 this shows an error message
