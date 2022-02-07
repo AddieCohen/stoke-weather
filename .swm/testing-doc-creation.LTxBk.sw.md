@@ -10,6 +10,7 @@ file_blobs:
 I'm testing the doc creation here
 
 <br/>
+
 | Tables        | Are           | Cool  |
 | ------------- |-------------|:-----:|
 | col 3 is      | right-aligned | $1600 |
