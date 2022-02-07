@@ -11,11 +11,11 @@ I'm testing the doc creation here
 
 <br/>
 
-| Tables        |Are indeed     | Cool  |
+| Tables        |Are            | Cool  |
 |---------------|---------------|-------|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |hello  |
+| zebra stripes | are neat      |horse  |
 
 <br/>
 
