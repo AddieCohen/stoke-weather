@@ -19,6 +19,14 @@ I'm testing the doc creation here
 
 <br/>
 
+| Another       |Table          | Cool  |
+|---------------|---------------|-------|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |flaaa  |
+
+<br/>
+
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/features/message/message.tsx
 ```tsx
