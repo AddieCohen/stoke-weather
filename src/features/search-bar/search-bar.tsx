@@ -8,7 +8,7 @@ import './search-bar.css';
 export function SearchBar() {
     const dispatch = useAppDispatch();
 
-    const handleKeyDown = (event: any) => {
+    const keyDownHandler = (event: any) => {
         if (event.key === 'Enter') {
             dispatch(setCityName(event.target.value));
         }
@@ -20,7 +20,7 @@ export function SearchBar() {
                        label="Search city"
                        variant="outlined"
                        className="search-input"
-                       onKeyDown={handleKeyDown}
+                       onKeyDown={keyDownHandler}
                        InputProps={{
                            endAdornment: (
                                <InputAdornment position="end">
