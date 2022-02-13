@@ -14,6 +14,7 @@ I'm testing the doc creation here
 | Tables        |Are            | Cool  |
 |---------------|---------------|-------|
 | col 3 is      | right-aligned | $1600 |
+|This           |row            |is new |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |horse  |
 
