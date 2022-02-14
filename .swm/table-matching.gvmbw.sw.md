@@ -44,7 +44,7 @@ testing table matching
 <br/>
 
 | is this | a | table |
-|   -   |-----|---------|
+|   :-   |-----|---------|
 | some    | a | text    |
 
 <br/>
