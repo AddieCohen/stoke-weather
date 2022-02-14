@@ -67,8 +67,8 @@ testing table matching
 
 <br/>
 
-| is this | a | table |
-|---------|---|-------|
+| not | supporeted | table |
+|-----|------------|-------|
 
 <br/>
 
