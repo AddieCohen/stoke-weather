@@ -57,7 +57,7 @@ testing table matching
 
 | is this | a | table |
  |---------|---|-------|
-| some    | a | text  |
+ | some    | a | text  |
 
 <br/>
 
@@ -67,8 +67,8 @@ testing table matching
 
 <br/>
 
-| not | supporeted | table |
-|-----|------------|-------|
+| is this | a | table |
+|---------|---|-------|
 
 <br/>
 
@@ -114,6 +114,12 @@ even if | multi | line?
 | ------ |
 | b `\|` az |
 | b **\|** im |
+
+<br/>
+
+| is this | a | table |
+|---------|---|-------|
+| some    | a | text  |
 
 <br/>
 
