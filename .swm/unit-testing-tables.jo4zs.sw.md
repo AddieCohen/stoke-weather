@@ -9,7 +9,67 @@ app_version: 0.7.4-1
 
 <br/>
 
+| table | with |header |
+|-------| ---- |-------|
+| this  |   is | data here long |
+
+<br/>
+
+| is this | a | table |
+|---------| - |-------|
+| some    | a | text  |
+
+<br/>
+
+| Tables        |Are            | Cool  |
+|:--------------|      :-:      |---------:|
+| data 1 here   | not aligning  | yet  \|
+ |This           |row            |is new |
+|               | text 2        |   $12   |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+
+<br/>
+
+| just | a | header |
+|------|---|--------|
+
+<br/>
+
 ### These should NOT be tables:
+
+<br/>
+
+| is this | a | table |
+|---------|---|---8---|
+| some    | a | text  |
+
+<br/>
+
+| is this | a | table |r
+|---------|---|-------|
+| some    | a | text  |
+
+<br/>
+
+|---------|---|-------|
+| some    | a | text  |
+
+<br/>
+
+heeoo | there | not a table |
+
+<br/>
+
+this || that
+
+<br/>
+
+this is a text | and not a | table
+even if | multi | line?
+
+<br/>
+
+| a table |
 
 <br/>
 
