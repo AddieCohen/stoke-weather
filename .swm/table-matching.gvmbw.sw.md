@@ -119,7 +119,7 @@ even if | multi | line?
 
 | is this | a | table |
 |---------|---|-------|
-| some    | a | text  |
+| some    | a | text \|
 
 <br/>
 
