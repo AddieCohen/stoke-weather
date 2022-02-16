@@ -15,12 +15,15 @@ app_version: 0.7.4-1
 
 <br/>
 
-dgfdfgdfgdfgdfgdfg
+| table | with |header |
+|-------| ---- |-------|
+| this  || data here long |
+
+<br/>
+
 | is this | a | table |
 |---------| - |-------|
-| some    | a | text  |
-
-dfgdfgdfgdfgd agtrgsrt 
+| some    | a | text  |dfgdfg|
 
 <br/>
 
@@ -45,6 +48,15 @@ dfgdfgdfgdfgd agtrgsrt
 | is this | a | table |
 |---------|---|---8---|
 | some    | a | text  |
+
+<br/>
+
+dgfdfgdfgdfgdfgdfg
+| is this | a | table |
+|---------| - |-------|
+| some    | a | text  |
+
+dfgdfgdfgdfgd agtrgsrt 
 
 <br/>
 
