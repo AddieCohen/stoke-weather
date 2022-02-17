@@ -17,7 +17,7 @@ app_version: 0.7.4-1
 
 | table | with |header |
 |-------| ---- |-------|
-| this  || data here long |
+| this is \| or \| or that || split before \| this |
 
 <br/>
 
