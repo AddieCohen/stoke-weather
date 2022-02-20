@@ -27,7 +27,7 @@ app_version: 0.7.4-2
 
 <br/>
 
-| Tables                                                             |Are                   |Cool <br/><br/><br/><br/> multiline  |
+| Tables                                                             |Are  <br/>hehe        |Cool <br/><br/><br/><br/> multiline  |
 |--------------------------------------------------------------------|----------------------|-------------------------------------|
 | data 1 here                                                        | not aligning         | yet  \|                             |
 |This                                                                |row                   |is new                               |
