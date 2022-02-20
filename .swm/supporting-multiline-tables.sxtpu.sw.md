@@ -27,14 +27,14 @@ app_version: 0.7.4-2
 
 <br/>
 
-| Tables                                |Are                   |Cool <br/> multiline  |
-|---------------------------------------|----------------------|----------------------|
-| data 1 here                           | not aligning         | yet  \|              |
-|This                                   |row                   |is new                |
-|a text<br/>multiline \\n bla efertert|                      |                      |
-|some more <br/> multi                  |dfgdfgg               |                      |
-| text 2                                |   $12                |                      |
-| <ul><li>item1</li><li>item2</li></ul> | See the list         | from the first column|
+| Tables                                                   |Are                   |Cool <br/><br/> multiline  |
+|----------------------------------------------------------|----------------------|---------------------------|
+| data 1 here                                              | not aligning         | yet  \|                   |
+|This                                                      |row                   |is new                     |
+|a text<br/><br/>multiline  <br/>bla efertert<br/><br/>ffff|                      |                           |
+|some more <br/><br/> multi                                |dfgdfgg               |                           |
+| text 2                                                   |   $12                |                           |
+| <ul><li>item1</li><li>item2</li></ul>                    | See the list         | from the first column     |
 
 <br/>
 
