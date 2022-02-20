@@ -31,8 +31,7 @@ app_version: 0.7.4-2
 |---------------------------------------|----------------------|----------------------|
 | data 1 here                           | not aligning         | yet  \|              |
 |This                                   |row                   |is new                |
-|a text<br/>multiline \\n bla  
-efertert|                      |                      |
+|a text<br/>multiline \\n bla efertert|                      |                      |
 |some more <br/> multi                  |dfgdfgg               |                      |
 | text 2                                |   $12                |                      |
 | <ul><li>item1</li><li>item2</li></ul> | See the list         | from the first column|
