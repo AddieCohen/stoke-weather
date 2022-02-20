@@ -27,21 +27,11 @@ app_version: 0.7.4-2
 
 <br/>
 
-| Tables                               |Are                   |Cool
-
-multilinee      |
+| Tables                               |Are                   |Cool|
 |--------------------------------------|----------------------|----------------------|
 | data 1 here                          | not aligning         | yet  \|              |
 |This                                  |row                   |is new                |
-|a text
-
-with multi
-
-line in
-
-it       |some more
-
-multi line |dfgdfg                |
+|a text|some more|dfgdfg                |
 | text 2                               |   $12                |                      |
 | <ul><li>item1</li><li>item2</li></ul>| See the list         | from the first column|
 
