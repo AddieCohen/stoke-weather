@@ -3,30 +3,33 @@ id: i7xfm
 name: New tables
 file_version: 1.0.2
 app_version: 0.7.4-2
+file_blobs:
+  package-lock.json: e1345350a25be84de96e55ba5f9a2898558901b1
 ---
 
 dfsdfsdf
 
 <br/>
 
-| | | |
-|-|-|-|
-| | | |
-| | | |
+| |       | |
+|-|-------|-|
+| |sdfgdfg| |
+| |       | |
 
 <br/>
 
-| | | |
-|-|-|-|
-| | | |
-| | | |
 
-<br/>
-
-| | | |
-|-|-|-|
-| | | |
-| | | |
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 package-lock.json
+```json
+⬜ 4        "lockfileVersion": 1,
+⬜ 5        "requires": true,
+⬜ 6        "dependencies": {
+🟩 7          "@babel/code-frame": {
+⬜ 8            "version": "7.14.5",
+⬜ 9            "resolved": "https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.14.5.tgz",
+⬜ 10           "integrity": "sha512-9pzDqyc6OLDaqe+zbACgFkb6fKMNG6CObKpnYXChRsvYGyEdc7CA2BaqeOM+vOtCS5ndmJicPJhKAwYRI6UfFw==",
+```
 
 <br/>
 
