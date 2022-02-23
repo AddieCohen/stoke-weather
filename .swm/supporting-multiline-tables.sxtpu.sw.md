@@ -21,9 +21,9 @@ app_version: 0.7.4-2
 
 <br/>
 
-| is this | a | table |      |
-|---------|---|-------|------|
-| some    | a | text  |dfgdfg|
+| is this | a | table | |
+|---------|---|-------|---|
+| some    | a | text  | |
 
 <br/>
 
