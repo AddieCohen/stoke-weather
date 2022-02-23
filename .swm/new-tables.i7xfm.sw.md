@@ -12,12 +12,11 @@ dfsdfsdf
 <br/>
 
 | |       | |
-|-|-------|-|
+|---|-------|---|
 | |sdfgdfg| |
 | |       | |
 
 <br/>
-
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 package-lock.json
@@ -30,6 +29,13 @@ dfsdfsdf
 ⬜ 9            "resolved": "https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.14.5.tgz",
 ⬜ 10           "integrity": "sha512-9pzDqyc6OLDaqe+zbACgFkb6fKMNG6CObKpnYXChRsvYGyEdc7CA2BaqeOM+vOtCS5ndmJicPJhKAwYRI6UfFw==",
 ```
+
+<br/>
+
+|sdfgdsfg|fdg                                                                               |fg |       |erg|gg    |    |
+|--------|----------------------------------------------------------------------------------|---|-------|---|------|----|
+|        |sdflskdjglkjdflkgjlskdjgldkfjgldksfgjldkjgplskdjglekrjgoerkjgeirjgoeisjrg\[oesirjg|   |esrgerg|   |ergreg|serg|
+|        |                                                                                  |ggg|       |gg |      |ggg |
 
 <br/>
 
