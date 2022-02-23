@@ -9,10 +9,10 @@ app_version: 0.7.4-2
 
 <br/>
 
-| table | with |header            |hahaha|sdf  |
-|-------|------|------------------|------|-----|
-|sdfsdf |      |sdfsf<br><br>multi|sdf   |fff  |
-| this  |   is | data here long   |fff   |fffff|
+| table | with |header            |hahaha|sdf  | |
+|-------|------|------------------|------|-----|---|
+|sdfsdf |      |sdfsf<br><br>multi|sdf   |fff  | |
+| this  |   is | data here long   |fff   |fffff| |
 
 <br/>
 
