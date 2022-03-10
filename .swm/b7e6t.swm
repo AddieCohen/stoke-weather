@@ -1,0 +1,45 @@
+{
+    "id": "b7e6t",
+    "name": "Flow 1",
+    "task": {
+        "dod": "make it work",
+        "tests": [],
+        "hints": [
+            "a hintt"
+        ]
+    },
+    "content": [
+        {
+            "type": "text",
+            "text": "commented a line"
+        },
+        {
+            "firstLineNumber": 22,
+            "path": "src/features/weather-data/weather-middleware.ts",
+            "type": "snippet",
+            "lines": [
+                "             storeApi.dispatch(setMessage(response.message));",
+                "         } else {",
+                "             storeApi.dispatch(setMessage(''));",
+                "*            storeApi.dispatch(setWeatherForecast(response));",
+                "+            // storeApi.dispatch(setWeatherForecast(response));",
+                "         }",
+                "     }",
+                " "
+            ],
+            "comments": []
+        },
+        {
+            "type": "text",
+            "text": "well done doing things"
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.3",
+    "meta": {
+        "app_version": "0.7.4-2",
+        "file_blobs": {
+            "src/features/weather-data/weather-middleware.ts": "ca580d2baff0660c31c1e2c01c5ce48a1bfffbd9"
+        }
+    }
+}
