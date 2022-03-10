@@ -1,0 +1,111 @@
+{
+    "id": "5b5na",
+    "name": "Flow 3",
+    "task": {
+        "dod": "skdfg",
+        "tests": [],
+        "hints": [
+            "dlfsdf"
+        ]
+    },
+    "content": [
+        {
+            "type": "text",
+            "text": "dfsgksd;fkg"
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "         },",
+                "         setPosition: (state, action: PayloadAction<Position>) => {",
+                "             state.position = action.payload;",
+                "+            console.log('sldkfjsldkjf');",
+                "         },",
+                "         setWeatherForecast: (state, action: PayloadAction<any>) => {",
+                "             state.weatherForecast = action.payload;"
+            ],
+            "firstLineNumber": 25,
+            "path": "src/features/weather-data/weather-data-slice.ts",
+            "comments": [
+                "[[sym-text:payload(3dab895f-4aec-4069-bd50-cc4fbf8746d4)]] is a thing we use here"
+            ]
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "             storeApi.dispatch(setMessage(response.message));",
+                "         } else {",
+                "             storeApi.dispatch(setMessage(''));",
+                "*            storeApi.dispatch(setPosition({lat: response.coord.lat, long: response.coord.lon}));",
+                "+            // storeApi.dispatch(setPosition({lat: response.coord.lat, long: response.coord.lon}));",
+                "         }",
+                "     }",
+                " "
+            ],
+            "firstLineNumber": 8,
+            "path": "src/features/weather-data/weather-middleware.ts",
+            "comments": [
+                "commented a line here"
+            ]
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "     if (action.type === 'weatherData/setPosition') {",
+                "         const response = await fetchWeather(action.payload) as any",
+                "         if (!!response.cod && response.cod !== 200) {",
+                "+            console.log('sdjnfsdjng');",
+                "             storeApi.dispatch(setMessage(response.message));",
+                "+            console.log('sfsdfsdf');",
+                "         } else {",
+                "             storeApi.dispatch(setMessage(''));",
+                "             storeApi.dispatch(setWeatherForecast(response));"
+            ],
+            "firstLineNumber": 19,
+            "path": "src/features/weather-data/weather-middleware.ts",
+            "comments": [
+                "[[sym-text:setMessage(2513356a-df91-4e88-a009-9c968af0e3bf)]] is between 2 log lines here"
+            ]
+        },
+        {
+            "type": "text",
+            "text": "skmflskdmfsldkfm"
+        }
+    ],
+    "symbols": {
+        "3dab895f-4aec-4069-bd50-cc4fbf8746d4": {
+            "symbol": "3dab895f-4aec-4069-bd50-cc4fbf8746d4",
+            "path": "src/features/weather-data/weather-data-slice.ts",
+            "text": "payload",
+            "lineNumber": 27,
+            "lineData": "            state.position = action.payload;",
+            "wordIndex": {
+                "start": 9,
+                "end": 9
+            },
+            "fileBlob": "d8b3f6865e568cc9a0610a25704a895eb86468bb",
+            "type": "generic_text"
+        },
+        "2513356a-df91-4e88-a009-9c968af0e3bf": {
+            "symbol": "2513356a-df91-4e88-a009-9c968af0e3bf",
+            "path": "src/features/weather-data/weather-middleware.ts",
+            "text": "setMessage",
+            "lineNumber": 22,
+            "lineData": "            storeApi.dispatch(setMessage(response.message));",
+            "wordIndex": {
+                "start": 5,
+                "end": 5
+            },
+            "fileBlob": "ca580d2baff0660c31c1e2c01c5ce48a1bfffbd9",
+            "type": "generic_text"
+        }
+    },
+    "file_version": "2.0.3",
+    "meta": {
+        "app_version": "0.7.4-2",
+        "file_blobs": {
+            "src/features/weather-data/weather-data-slice.ts": "d8b3f6865e568cc9a0610a25704a895eb86468bb",
+            "src/features/weather-data/weather-middleware.ts": "ca580d2baff0660c31c1e2c01c5ce48a1bfffbd9"
+        }
+    }
+}
