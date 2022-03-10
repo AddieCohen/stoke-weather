@@ -1,0 +1,58 @@
+{
+    "id": "hbzzf",
+    "name": "Flow Ex 2",
+    "task": {
+        "dod": "revert them",
+        "tests": [],
+        "hints": []
+    },
+    "content": [
+        {
+            "type": "text",
+            "text": "changed things"
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "             storeApi.dispatch(setMessage(response.message));",
+                "         } else {",
+                "             storeApi.dispatch(setMessage(''));",
+                "*            storeApi.dispatch(setPosition({lat: response.coord.lat, long: response.coord.lon}));",
+                "+            // storeApi.dispatch(setPosition({lat: response.coord.lat, long: response.coord.lon}));",
+                "         }",
+                "     }",
+                " "
+            ],
+            "firstLineNumber": 8,
+            "path": "src/features/weather-data/weather-middleware.ts",
+            "comments": []
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "         const response = await fetchWeather(action.payload) as any",
+                "         if (!!response.cod && response.cod !== 200) {",
+                "             storeApi.dispatch(setMessage(response.message));",
+                "+            console.log('ahhhhhh');",
+                "         } else {",
+                "             storeApi.dispatch(setMessage(''));",
+                "             storeApi.dispatch(setWeatherForecast(response));"
+            ],
+            "firstLineNumber": 20,
+            "path": "src/features/weather-data/weather-middleware.ts",
+            "comments": []
+        },
+        {
+            "type": "text",
+            "text": "dsfsdfsdf"
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.3",
+    "meta": {
+        "app_version": "0.7.4-2",
+        "file_blobs": {
+            "src/features/weather-data/weather-middleware.ts": "ca580d2baff0660c31c1e2c01c5ce48a1bfffbd9"
+        }
+    }
+}
