@@ -1,0 +1,133 @@
+{
+    "id": "wo20h",
+    "name": "Ex from sha",
+    "task": {
+        "dod": "xcvxcvxcv",
+        "tests": [
+            "echo true"
+        ],
+        "hints": [
+            "ddd"
+        ]
+    },
+    "content": [
+        {
+            "type": "text",
+            "text": "fixed some css"
+        },
+        {
+            "firstLineNumber": 1,
+            "path": "README.md",
+            "type": "snippet",
+            "lines": [
+                "*# Stoke Weather",
+                "+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.",
+                " ",
+                "*This is a small weather app.",
+                "+## Available Scripts",
+                " ",
+                "*Simply input your city of choice and browse its weather forecast. ",
+                "+In the project directory, you can run:",
+                "+",
+                "+### `yarn start`",
+                "+",
+                "+Runs the app in the development mode.<br />",
+                "+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.",
+                "+",
+                "+The page will reload if you make edits.<br />",
+                "+You will also see any lint errors in the console.",
+                "+",
+                "+### `yarn test`",
+                "+",
+                "+Launches the test runner in the interactive watch mode.<br />",
+                "+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.",
+                "+",
+                "+### `yarn build`",
+                "+",
+                "+Builds the app for production to the `build` folder.<br />",
+                "+It correctly bundles React in production mode and optimizes the build for the best performance.",
+                "+",
+                "+The build is minified and the filenames include the hashes.<br />",
+                "+Your app is ready to be deployed!",
+                "+",
+                "+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.",
+                "+",
+                "+### `yarn eject`",
+                "+",
+                "+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**",
+                "+",
+                "+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.",
+                "+",
+                "+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.",
+                "+",
+                "+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.",
+                "+",
+                "+## Learn More",
+                "+",
+                "+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).",
+                "+",
+                "+To learn React, check out the [React documentation](https://reactjs.org/)."
+            ],
+            "comments": []
+        },
+        {
+            "firstLineNumber": 1,
+            "path": "src/App.css",
+            "type": "snippet",
+            "lines": [
+                " .App {",
+                "*  width: 100%;",
+                "   text-align: center;",
+                "   background-color: #49a9de;",
+                "   background-image: linear-gradient(45deg, #49a9de 0%, #9acdc8 100%);",
+                " }",
+                " "
+            ],
+            "comments": []
+        },
+        {
+            "firstLineNumber": 8,
+            "path": "src/App.css",
+            "type": "snippet",
+            "lines": [
+                " .App-logo {",
+                "   height: 20vmin;",
+                "   pointer-events: none;",
+                "*  margin: 50px 0;",
+                "+  margin-bottom: 100px;",
+                " }",
+                " ",
+                " @media (prefers-reduced-motion: no-preference) {"
+            ],
+            "comments": []
+        },
+        {
+            "firstLineNumber": 1,
+            "path": "src/features/search-bar/search-bar.css",
+            "type": "snippet",
+            "lines": [
+                " .search-input {",
+                "*    width: 90vmin;",
+                "+    width: 500px;",
+                "*    max-width: 500px;",
+                "*    min-width: 200px;",
+                " }"
+            ],
+            "comments": []
+        },
+        {
+            "type": "text",
+            "text": "well done"
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.3",
+    "meta": {
+        "app_version": "0.7.4-2",
+        "file_blobs": {
+            "README.md": "66be674c253d6d37d9d0a8413ba81683b6c79291",
+            "src/App.css": "69f32fef2842a7668ce4988c611b6d41d10940b2",
+            "src/features/search-bar/search-bar.css": "b29537b80e3d26ba8e84564ba2e906af23bda9db"
+        }
+    }
+}
