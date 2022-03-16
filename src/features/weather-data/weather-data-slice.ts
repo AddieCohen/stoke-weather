@@ -16,6 +16,10 @@ const initialState: WeatherDataState = {
     message: ''
 };
 
+export const __function__ = () => {
+    console.log('akjdlkasjdlskdj');
+}
+
 export const weatherDataSlice = createSlice({
     name: 'weatherData',
     initialState,
