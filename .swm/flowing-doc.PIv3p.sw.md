@@ -2,14 +2,14 @@
 id: PIv3p
 name: flowing doc
 file_version: 1.0.2
-app_version: 0.7.0-0
+app_version: 0.7.8-1
 file_blobs:
   src/App.tsx: 170c13458751c892727b1ef36bcd334ce6d0b5fb
   src/features/search-bar/search-bar.tsx: 9370605115c390dd61af04038044abe7b6ca81f7
   src/features/component-switch/component-switch.tsx: 0f18eecaab55a4298d4a72846fcd0307a2f1ccdb
 ---
 
-flowing doc
+flowing doc g
 
 <br/>
 
