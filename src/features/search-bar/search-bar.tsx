@@ -9,9 +9,6 @@ export function SearchBar() {
     const dispatch = useAppDispatch();
 
     const handleKeyDown = (event: any) => {
-        if (event.key === 'Enter') {
-            dispatch(setCityName(event.target.value));
-        }
     }
 
     return (
