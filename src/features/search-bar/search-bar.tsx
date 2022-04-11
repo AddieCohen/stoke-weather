@@ -8,11 +8,9 @@ import './search-bar.css';
 export function SearchBar() {
     const dispatch = useAppDispatch();
 
-    const handleKeyDown = (event: any) => {
-        if (event.key === 'Enter') {
-            dispatch(setCityName(event.target.value));
-        }
-    }
+    console.log('movingg');
+
+    const handleKeyDown = (event: any) =>
 
     return (
         <div>
