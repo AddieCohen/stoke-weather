@@ -8,14 +8,14 @@ import './search-bar.css';
 export function SearchBar() {
     const dispatch = useAppDispatch();
 
-    console.log('ahhhhsdjfkh');
-    console.log('making handleKeyDown be moved to a different line');
-
     const handleKeyDown = (event: any) => {
         if (event.key === 'Enter') {
             dispatch(setCityName(event.target.value));
         }
     }
+
+    console.log('ahhhhsdjfkh');
+    console.log('making handleKeyDown be moved to a different line');
 
     return (
         <div>
