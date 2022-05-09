@@ -8,7 +8,8 @@ import './search-bar.css';
 export function SearchBar() {
     const dispatch = useAppDispatch();
 
-    console.log('dlkgjsl;djg')
+    console.log('dlkgjsl;djg');
+    const image = 'XXX.dkr.ecr.eu-central-1.amazonaws.com/c-dev:focal';
 
     const handleKeyDown = (event: any) =>
 
