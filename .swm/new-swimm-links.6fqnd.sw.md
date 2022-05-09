@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.8.2-0
 ---
 
-this is a link to a swimm doc
+this is a link to a swimm doc [flowing doc](flowing-doc.PIv3p.sw.md)
 
 this is a link to a playlist
 
