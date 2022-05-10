@@ -13,18 +13,9 @@ app_version: 0.8.2-0
 
 <br/>
 
-[ahhh](ahhh.7yg2i.sw.md)
+[ahhh](ahhh.7yg2i.sw.md) `📄 tsconfig.json`
 
-<br/>
-
-|sdsf| | |
-|----|---|---|
-|    | | |
-|    | | |
-
-<br/>
-
-<div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBc3Rva2Utd2VhdGhlciUzQSUzQUFkZGllQ29oZW4%3D%2Ffb406dfc-2856-4b39-b9c7-ac94d1b6d1ab.png?alt=media&token=1e447f3d-f56f-4491-b566-67ea964f7980" style="width:'50%'"/></div>
+dfvdflg'df;gl [flowing doc](flowing-doc.PIv3p.sw.md)
 
 <br/>
 
