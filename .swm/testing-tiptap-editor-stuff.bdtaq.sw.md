@@ -2,9 +2,10 @@
 id: bdtaq
 name: Testing tiptap editor stuff
 file_version: 1.0.2
-app_version: 0.8.2-0
+app_version: 0.8.5-0
 file_blobs:
   package-lock.json: e1345350a25be84de96e55ba5f9a2898558901b1
+  tsconfig.json: a273b0cfc0e965c35524e3cd0d3574cbe1ad2d0d
 ---
 
 dsfdv [dfgdf](https://atomiks.github.io/tippyjs/v6/accessibility/#interactivity) `resolved`[<sup id="1efaXk">↓</sup>](#f-1efaXk)
@@ -18,6 +19,21 @@ dsfdv [dfgdf](https://atomiks.github.io/tippyjs/v6/accessibility/#interactivity)
 ⬜ 10           "integrity": "sha512-9pzDqyc6OLDaqe+zbACgFkb6fKMNG6CObKpnYXChRsvYGyEdc7CA2BaqeOM+vOtCS5ndmJicPJhKAwYRI6UfFw==",
 ⬜ 11           "requires": {
 ⬜ 12             "@babel/highlight": "^7.14.5"
+```
+
+<br/>
+
+kklk
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 tsconfig.json
+```json
+⬜ 11         "esModuleInterop": true,
+⬜ 12         "allowSyntheticDefaultImports": true,
+⬜ 13         "strict": true,
+🟩 14         "forceConsistentCasingInFileNames": true,
+⬜ 15         "noFallthroughCasesInSwitch": true,
+⬜ 16         "module": "esnext",
+⬜ 17         "moduleResolution": "node",
 ```
 
 <br/>
