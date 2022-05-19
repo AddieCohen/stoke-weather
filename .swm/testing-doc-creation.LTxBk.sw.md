@@ -2,9 +2,10 @@
 id: LTxBk
 name: Testing doc creation
 file_version: 1.0.2
-app_version: 0.7.10-0
+app_version: 0.8.5-0
 file_blobs:
   src/features/message/message.tsx: a05f70da11282cba615bdaed59fd412738e28dc4
+  package.json: 77044d081da4c7a6299a99fa4be909664911a8f2
 ---
 
 I'm testing the doc creation here `props`[<sup id="EXL7D">↓</sup>](#f-EXL7D)
@@ -25,6 +26,24 @@ this shows an error message `props`[<sup id="EXL7D">↓</sup>](#f-EXL7D)
 ⬜ 8      }
 ⬜ 9      
 ```
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 package.json
+```json
+⬜ 6          "@material-ui/core": "^4.12.3",
+⬜ 7          "@material-ui/icons": "^4.11.2",
+⬜ 8          "@reduxjs/toolkit": "^1.5.1",
+🟩 9          "@testing-library/jest-dom": "^4.2.4",
+⬜ 10         "@testing-library/react": "^9.3.2",
+⬜ 11         "@testing-library/user-event": "^7.1.2",
+⬜ 12         "@types/jest": "^24.0.0",
+```
+
+<br/>
+
+aDAFASDFSADFSDAFSADFasdsdf
 
 <br/>
 
