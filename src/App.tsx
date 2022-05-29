@@ -9,6 +9,7 @@ function App() {
             <header className="App-header">
                 <SearchBar/>
                 <ComponentSwitch/>
+                <div>for david</div>
             </header>
         </div>
     );
