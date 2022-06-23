@@ -17,6 +17,8 @@ some more info in this file
 
 this is a document
 
+`askdfghfghfgha a`
+
 a document with text in it
 
 very
@@ -74,6 +76,7 @@ we are testing things
 
 ```
 This is some code  dfvgdfgdfg sdsdf
+dsfgsdfgsdfg
 ```
 
 sdfsdfsdf this is code
@@ -96,9 +99,9 @@ fghfdghfgh sldkfmd dfmgdfkg
 
 `this is inline` s;ldkasdkf
 
+`This is inline code. And I can't escapppee`
+
 <br/>
-
-
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 package.json
@@ -150,8 +153,13 @@ here.
 
 This is after the list
 
+`safdlkh` dcsdfdsf
 
+`gilad. dfdfgd`
 
+`lksdjfsdlk vc vlkfd;lkgdf` fgxgfdgdfg
+
+`lflflg`
 
 <br/>
 
