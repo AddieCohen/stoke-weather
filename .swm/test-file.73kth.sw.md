@@ -2,10 +2,11 @@
 id: 73kth
 name: Test file
 file_version: 1.0.2
-app_version: 0.9.0-0
+app_version: 0.9.0-2
 file_blobs:
   src/app/hooks.ts: d658a5efd1291babfca6c8eb1bc271c839aca088
   src/app/store.ts: af7fb24add51a844d17581b7cf21bc804c60d3e9
+  package.json: 77044d081da4c7a6299a99fa4be909664911a8f2
 ---
 
 These are some lines of text here
@@ -71,10 +72,49 @@ we are testing things
 
 <br/>
 
+```
+This is some code  dfvgdfgdfg sdsdf
+```
+
+sdfsdfsdf this is code
+
+`inline sdfsdf`
+
+asfsfs `dsfsdf` sd;lfksd;fksd;mf
+
+`rfreferf`
+
+`ello xcvvfd`
+
+`sdkjfsldkf dslkflskdf lkkl\ccxcxcxcxxxcccxcxcxcxx` dfsdfsdf
+
+dfsgdfgas
+
+> This is a blockquote
+
+fghfdghfgh sldkfmd dfmgdfkg
+
+`this is inline` s;ldkasdkf
+
+<br/>
 
 
 
-in here
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 package.json
+```json
+⬜ 12         "@types/jest": "^24.0.0",
+⬜ 13         "@types/node": "^12.0.0",
+⬜ 14         "@types/react": "^16.9.0",
+🟩 15         "@types/react-dom": "^16.9.0",
+⬜ 16         "@types/react-redux": "^7.1.7",
+⬜ 17         "moment": "^2.29.1",
+⬜ 18         "react": "^17.0.2",
+```
+
+<br/>
+
+In here
 
 testing!
 
@@ -84,9 +124,34 @@ here.
     
 *   a list item with path second `📄 src/app/store.ts`
     
-*   third `📄 src/features/message/message.tsx`
+    *   inner bullet
+        
+    *   inner 2 bullet
+        
+*   third `📄 tsconfig.json`
     
-*   bullet list
+*   forth line
+    
+
+1.  one item
+    
+2.  second item
+    
+3.  third item
+    
+4.  forth item
+    
+    1.  inner first
+        
+    2.  inner second
+        
+5.  fifth item
+    
+
+This is after the list
+
+
+
 
 <br/>
 
