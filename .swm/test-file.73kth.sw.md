@@ -13,6 +13,11 @@ These are some lines of text here
 
 text text
 
+```
+Ahh - This is some code - it's a big code block
+This is below code
+```
+
 some more info in this file
 
 this is a document
@@ -95,7 +100,7 @@ dfsgdfgas
 
 > This is a blockquote
 
-fghfdghfgh sldkfmd dfmgdfkg
+fghfdghfgh sldkfmd dfmgdfkg interesting
 
 `this is inline` s;ldkasdkf
 
