@@ -75,13 +75,13 @@ we are testing things
 <br/>
 
 ```
-This is some code  dfvgdfgdfg sdsdfdsfgsdfgsdfg 
+This is some code - it's a big code block interesting
 This is text
 ```
 
 sdfsdfsdf this is code
 
-`inline sdfsdf`
+`inline` interesting`sdfsdf`
 
 asfsfs `dsfsdf` sd;lfksd;fksd;mf interesting
 
