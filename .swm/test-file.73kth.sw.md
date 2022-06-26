@@ -11,12 +11,12 @@ file_blobs:
 
 These are some lines of text here
 
-text text
-
 ```
 Ahh - This is some code - it's a big code block
 This is below code
 ```
+
+text text
 
 some more info in this file
 
