@@ -75,15 +75,15 @@ we are testing things
 <br/>
 
 ```
-This is some code  dfvgdfgdfg sdsdf
-dsfgsdfgsdfg
+This is some code  dfvgdfgdfg sdsdfdsfgsdfgsdfg 
+This is text
 ```
 
 sdfsdfsdf this is code
 
 `inline sdfsdf`
 
-asfsfs `dsfsdf` sd;lfksd;fksd;mf
+asfsfs `dsfsdf` sd;lfksd;fksd;mf interesting
 
 `rfreferf`
 
@@ -99,7 +99,7 @@ fghfdghfgh sldkfmd dfmgdfkg
 
 `this is inline` s;ldkasdkf
 
-`This is inline code. And I can't escapppee`
+`This is inline code. And I can't escapppee`dsff
 
 <br/>
 
@@ -151,15 +151,14 @@ here.
 5.  fifth item
     
 
-This is after the list
 
-`safdlkh` dcsdfdsf
 
-`gilad. dfdfgd`
 
-`lksdjfsdlk vc vlkfd;lkgdf` fgxgfdgdfg
+This is some normal text `This is code more code code`text This is text `code`Text
 
-`lflflg`
+
+
+
 
 <br/>
 
