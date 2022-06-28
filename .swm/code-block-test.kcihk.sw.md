@@ -4,11 +4,16 @@ name: Code block test
 file_version: 1.0.2
 app_version: 0.9.1-1
 file_blobs:
+  src/types/position.ts: 44ac51d7c0328b20d21165716155c62468c0e656
   package.json: 77044d081da4c7a6299a99fa4be909664911a8f2
 ---
 
 ```
-First lineSecond linesfor (i = 0)    log(ahh)log(ahhh)
+First line
+Second lines
+for (i = 0) 
+    log(ahh)
+log(ahhh)
 ```
 
 More textd df
@@ -17,8 +22,7 @@ Hello there hello `This is code` `true`[<sup id="Tpi3p">↓</sup>](#f-Tpi3p)
 
 This is text
 
-
-
+`This is code`
 
 
 
@@ -32,22 +36,18 @@ mashu
 
 
 
+<br/>
 
-
-asesaeae
-
-
-
+Position
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/types/position.ts
+```typescript
+🟩 1      export interface Position {
+🟩 2          lat: number;
+🟩 3          long: number;
+🟩 4      }
+🟩 5      
 ```
-```
-
-```
-```
-
-
-
-
-## **asea**
 
 <br/>
 
