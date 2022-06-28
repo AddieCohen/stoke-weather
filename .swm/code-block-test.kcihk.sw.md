@@ -2,17 +2,13 @@
 id: kcihk
 name: Code block test
 file_version: 1.0.2
-app_version: 0.9.1-0
+app_version: 0.9.1-1
 file_blobs:
   package.json: 77044d081da4c7a6299a99fa4be909664911a8f2
 ---
 
 ```
-First line
-Second lines
-for (i = 0)
-    log(ahh)
-log(ahhh)
+First lineSecond linesfor (i = 0)    log(ahh)log(ahhh)
 ```
 
 More textd df
@@ -21,7 +17,7 @@ Hello there hello `This is code` `true`[<sup id="Tpi3p">↓</sup>](#f-Tpi3p)
 
 This is text
 
-undefined
+``````
 
 another line
 
