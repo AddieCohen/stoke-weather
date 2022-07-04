@@ -72,7 +72,7 @@ the logo is here
 
 <br/>
 
-| Ahhh | `capitalizedName`[<sup id="Z158zQe">↓</sup>](#f-Z158zQe) |
+| [ahhh](ahhh.7yg2i.sw.md) | `capitalizedName`[<sup id="Z158zQe">↓</sup>](#f-Z158zQe) |
 | --- | --- |
 | xxx | Bloop |
 
