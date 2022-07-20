@@ -30,15 +30,14 @@ dsdsdf[Testing doc creation](testing-doc-creation.LTxBk.sw.md)
 
 *   **What is it:** [Esbuild](https://esbuild.github.io/) is a blazing fast JavaScript bundler built with Golang. Esbuild is a next-generation JavaScript bundler aimed at improving build tool performance and ease of use. And some of its main features are:
     
-*   Extreme speed without needing a cache
-    
-*   ES6 and CommonJS modules
-    
-*   Tree shaking of ES6 modules
-    
-*   An [API](https://esbuild.github.io/api/) for JavaScript and Go
-    
-
+    *   Extreme speed without needing a cache
+        
+    *   ES6 and CommonJS modules
+        
+    *   Tree shaking of ES6 modules
+        
+    *   An [API](https://esbuild.github.io/api/) for JavaScript and Go
+        
 *   sdfsdf
     
 *   dsfsdf
