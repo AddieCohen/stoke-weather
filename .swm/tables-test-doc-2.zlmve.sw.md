@@ -1,6 +1,6 @@
 ---
 id: zlmve
-name: Tables test doc
+name: Tables test doc 2
 file_version: 1.0.2
 app_version: 0.9.3-3
 ---
@@ -15,9 +15,9 @@ Tables:
 
 <br/>
 
-| is this | a | table ||
+| is this | a | table | |
 |---------|---|-------|---|
-| some    | a | text  ||
+| some    | a | text  | |
 
 <br/>
 
@@ -35,43 +35,27 @@ Tables:
 
 <br/>
 
-Not Tables:
+Not Tables: 
 
-<br/>
-
-| is this | a | table |
+ | is this | a | table |
 |---------|---|---8---|
-| some    | a | text  |
+| some    | a | text  | 
 
-<br/>
-
-| is this | a | table |r
+ | is this | a | table |r
 |---------|---|-------|
-| some    | a | text  |
+| some    | a | text  | 
 
-<br/>
+ |---------|---|-------|
+| some    | a | text  | 
 
-|---------|---|-------|
-| some    | a | text  |
+ heeoo | there | not a table | 
 
-<br/>
+ this || that 
 
-heeoo | there | not a table |
+ this is a text | and not a | table
+even if | multi | line? 
 
-<br/>
-
-this || that
-
-<br/>
-
-this is a text | and not a | table
-even if | multi | line?
-
-<br/>
-
-| a table |
-
-<br/>
+ | a table |
 
 <br/>
 
