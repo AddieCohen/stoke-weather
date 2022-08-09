@@ -9,53 +9,47 @@ Tables:
 
 <br/>
 
-| table | with |header          |
-|-------|------|----------------|
-| this  |   is | data here long |
+|table|with|header        |
+|-----|----|--------------|
+|this |is  |data here long|
 
 <br/>
 
-| is this | a | table | |
-|---------|---|-------|---|
-| some    | a | text  | |
+|is this|a|table|<br>|
+|-------|---|-----|----|
+|some   |a|text |<br>|
 
 <br/>
 
-| Tables                               |Are           | Cool                 |
-|--------------------------------------|--------------|----------------------|
-| data 1 here                          | not aligning | yet  \|              |
-|This                                  |row           |is new                |
-|                                      |test 2        |   $12                |
-| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+|Tables     |Are | ff    |Cool                 |
+|-----------|------------|---------------------|
+|data 1 here|not aligning|yet |                |
+|This       |row         |is new               |
+|<br>       |test 2      |$12                  |
+|<br>       |See the list|from the first column|
 
 <br/>
 
-| just | a | header |
-|------|---|--------|
+|just|a|header|
+|----|---|------|
 
 <br/>
 
-Not Tables: 
+Not Tables:
 
- | is this | a | table |
-|---------|---|---8---|
-| some    | a | text  | 
+| is this | a | table | |---------|---|---8---| | some | a | text |
 
- | is this | a | table |r
-|---------|---|-------|
-| some    | a | text  | 
+| is this | a | table |r |---------|---|-------| | some | a | text |
 
- |---------|---|-------|
-| some    | a | text  | 
+|---------|---|-------| | some | a | text |
 
- heeoo | there | not a table | 
+heeoo | there | not a table |
 
- this || that 
+this || that
 
- this is a text | and not a | table
-even if | multi | line? 
+this is a text | and not a | table even if | multi | line?
 
- | a table |
+| a table |
 
 <br/>
 
