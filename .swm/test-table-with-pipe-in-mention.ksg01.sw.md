@@ -11,7 +11,7 @@ app_version: 0.9.3-3
 
 <br/>
 
-[[sym-mention:(09044e84-afd1-482d-951f-900453b3a34b\|Z28kp1f)Addie Cohen]]
+[[sym-mention:(393f00b4-05a7-45e7-a719-6b12d146ea75|Z28kp1f)Addie Cohen]]
 
 <br/>
 
