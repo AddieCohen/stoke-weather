@@ -5,9 +5,13 @@ file_version: 1.0.2
 app_version: 0.9.3-3
 ---
 
-|[[sym-mention:(f4e15ed9-4b2f-4e53-941e-7ca6ad83d60a\|Z28kp1f)Addie Cohen]]|<br>|
-|--------------------------------------------------------------------------|----|
-|<br>                                                                      |<br>|
+|<br>|<br>|
+|----|----|
+|<br>|<br>|
+
+<br/>
+
+[[sym-mention:(09044e84-afd1-482d-951f-900453b3a34b\|Z28kp1f)Addie Cohen]]
 
 <br/>
 
