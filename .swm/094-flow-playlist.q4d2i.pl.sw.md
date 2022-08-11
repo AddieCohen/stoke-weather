@@ -15,6 +15,7 @@ this is a playlist
 2. [Testing doc creation](testing-doc-creation.LTxBk.sw.md)
 3. [pull requests](https://github.com/swimmio/swimm/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)
 4. [readme](https://raw.githubusercontent.com/AddieCohen/stoke-weather/main/README.md)
+5. [strawberry](strawberry.vaFeg.pl.sw.md)
 
 
 <br/>
