@@ -11,9 +11,9 @@ this is a playlist
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [Testing doc creation](testing-doc-creation.LTxBk.sw.md)
-2. [Batch commit figma link](https://www.figma.com/file/prhW0buKymkMyOM6pxI9Fu/%5B0.9.1~-1.0.0%5D-Editor?node-id=746%3A108095)
-3. [headphones](https://www.youtube.com/watch?v=6CsJZxfZsL0&t=1s&ab_channel=MarquesBrownlee)
+1. [headphones](https://www.youtube.com/watch?v=6CsJZxfZsL0&t=1s&ab_channel=MarquesBrownlee)
+2. [Testing doc creation](testing-doc-creation.LTxBk.sw.md)
+3. [Batch commit figma link](https://www.figma.com/file/prhW0buKymkMyOM6pxI9Fu/%5B0.9.1~-1.0.0%5D-Editor?node-id=746%3A108095)
 4. [flowing doc](flowing-doc.PIv3p.sw.md)
 5. [readme](https://raw.githubusercontent.com/AddieCohen/stoke-weather/main/README.md)
 
