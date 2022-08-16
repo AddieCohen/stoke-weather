@@ -7,7 +7,7 @@ file_blobs:
   package.json: 77044d081da4c7a6299a99fa4be909664911a8f2
 ---
 
-This is a line and
+This is a line and `addie@swimm.io`
 
 more klksmflsdmkf addie@swimm.io
 
