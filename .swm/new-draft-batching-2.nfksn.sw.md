@@ -1,6 +1,6 @@
 ---
 id: nfksn
-name: new draft batching
+name: new draft batching 2
 file_version: 1.0.2
 app_version: 0.9.4-1
 ---
