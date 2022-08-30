@@ -13,7 +13,7 @@ app_version: 0.9.5-0
 <!-- Steps - Do not remove this comment -->
 1. [Testing doc creation](testing-doc-creation.LTxBk.sw.md)
 2. [dfgdfg](dfgdfg.nbs82.sw.md)
-3. [oncall 101](https://app.swimm.io/workspaces/aRvMqc0yWAVcJlLN944D/repos/veezvxCuzpPrRLLXWD2E/branch/develop/playlists/mteo2)
+3. [figma](https://www.figma.com/files/team/834784845729748882/swimm?fuid=1029312781649153986)
 
 
 <br/>
