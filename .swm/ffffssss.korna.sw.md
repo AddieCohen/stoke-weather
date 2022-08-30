@@ -1,6 +1,6 @@
 ---
 id: korna
-name: ffff
+name: ffffssss
 file_version: 1.0.2
 app_version: 0.9.5-0
 ---
