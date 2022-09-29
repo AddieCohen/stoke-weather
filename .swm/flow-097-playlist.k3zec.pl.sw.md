@@ -15,6 +15,7 @@ app_version: 0.9.7-0
 2. [flowing doc draft 2](flowing-doc-draft-2.PIv3p.sw.md)
 3. [youtube link](https://www.youtube.com/watch?v=b_0_nF9yX9c&ab_channel=Swimm)
 4. [md link](https://raw.githubusercontent.com/AddieCohen/stoke-weather/main/README.md)
+5. [This is a new doc](this-is-a-new-doc.pn9v7.sw.md)
 
 
 <br/>
