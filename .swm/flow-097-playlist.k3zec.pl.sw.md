@@ -13,9 +13,8 @@ app_version: 0.9.7-0
 <!-- Steps - Do not remove this comment -->
 1. [Testing doc creation](testing-doc-creation.LTxBk.sw.md)
 2. [md link](https://raw.githubusercontent.com/AddieCohen/stoke-weather/main/README.md)
-3. [youtube link](https://www.youtube.com/watch?v=b_0_nF9yX9c&ab_channel=Swimm)
+3. [youtube link](https://www.youtube.com/watch?v=jfKfPfyJRdk&ab_channel=LofiGirl)
 4. [flowing doc draft 2](flowing-doc-draft-2.PIv3p.sw.md)
-5. [This is a new doc](this-is-a-new-doc.pn9v7.sw.md)
 
 
 <br/>
